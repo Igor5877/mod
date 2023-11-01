@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "IgorMod",
+  "description": "Мій мод",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.youtube.com/watch?v=B7DhQgyyekk&t=2363s",
+  "updateUrl": "",
+  "authorList": ["Igor"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
